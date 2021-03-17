@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Introducing"
 date: 2021-03-10 11:48:52 +0900
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Jungyoon's Webpage"
 date:   2021-03-10 10:37:26 +0900
 categories: jekyll update
