@@ -4,4 +4,11 @@ title: "Computer"
 date: 2021-03-28 11:15:30 +0900
 ---
 
-# Computer
+# America
+
+## 50 states
+* Alabama
+* Alaska
+* Arizona
+
+![]https://www.thoughtco.com/thmb/8X3icYcv0iyruB9Wjpb53KqHanM=/4000x3000/smart/filters:no_upscale()/capitals-of-the-fifty-states-1435160v24-0059b673b3dc4c92a139a52f583aa09b.jpg
